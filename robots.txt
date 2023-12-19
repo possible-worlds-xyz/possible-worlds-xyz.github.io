@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.possible-worlds.xyz/sitemap.xml
+Sitemap: https://possible-worlds-xyz.github.io/sitemap.xml
